@@ -1,6 +1,9 @@
 # Fundamentals of Computer Vision Course. Autumn. 2021
 Course Fundamentals of Computer Vision, autumn 2021
 
+*Language*: Python
+*Tools*: OpenCV
+
 ## Structure
 1. `data` - source, images, results
 2. `01_lab.ipynb` - First laboratory work. Filters.
